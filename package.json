@@ -1,0 +1,14 @@
+{
+  "name": "traq-hubot-example",
+  "version": "0.0.0",
+  "private": true,
+  "author": "sapphi-red <green@sapphi.red>",
+  "description": "An example bot for traQ using hubot-traq.",
+  "dependencies": {
+    "hubot": "^3.3.2",
+    "hubot-traq": "^1.1.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

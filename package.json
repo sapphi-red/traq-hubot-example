@@ -6,7 +6,7 @@
   "description": "An example bot for traQ using hubot-traq.",
   "dependencies": {
     "hubot": "^3.3.2",
-    "hubot-traq": "^1.4.3"
+    "hubot-traq": "^1.8.1"
   },
   "engines": {
     "node": "0.10.x"
